@@ -1,6 +1,6 @@
 # Partner Readiness Score
 
-I built this project to understand what it actually takes to onboard a seller onto a retail marketplace — not just the concept, but the operational detail behind it.
+I built this project to understand what it actually takes to onboard a seller onto a retail marketplace, not just the concept, but the operational detail behind it.
 
 The question I started with: if you're an analyst managing hundreds of seller item submissions, how do you decide which ones are good enough to go live, which need fixes, and which need to be escalated? This is my attempt to build that decision-making process from scratch.
 
