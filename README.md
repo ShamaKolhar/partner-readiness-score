@@ -16,7 +16,7 @@ I used a real product dataset (Amazon Sales Dataset from Kaggle) as the base, ad
 
 ## How the scoring works
 
-I broke item quality into 4 dimensions because a seller submission can fail in different ways — a product can have a great description but no image, or be submitted on time but filed under the wrong category. Treating them separately makes it easier to give specific feedback.
+I broke item quality into 4 dimensions because a seller submission can fail in different ways, a product can have a great description but no image, or be submitted on time but filed under the wrong category. Treating them separately makes it easier to give specific feedback.
 
 **Completeness (30%)** — checks if the 4 non-negotiable fields are filled: product name, category, description, and image URL. Each field is worth 25 points.
 
