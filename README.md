@@ -8,7 +8,7 @@ The question I started with: if you're an analyst managing hundreds of seller it
 
 ## What I built
 
-A scoring system that takes seller item submissions and evaluates them across 4 dimensions — completeness, accuracy, timeliness, and relevancy. Each submission gets a score out of 100. Based on that score, the system recommends one of three actions: approve, request revision, or escalate.
+A scoring system that takes seller item submissions and evaluates them across 4 dimensions, namely, completeness, accuracy, timeliness, and relevancy. Each submission gets a score out of 100. Based on that score, the system recommends one of three actions: approve, request revision, or escalate.
 
 I used a real product dataset (Amazon Sales Dataset from Kaggle) as the base, added simulated seller submission metadata on top of it, and built everything in Excel. The results are visualized in a Tableau dashboard.
 
