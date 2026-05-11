@@ -1,7 +1,7 @@
 # Item Onboarding Standard Operating Procedure
 **Process:** Partner Readiness Score — Seller Item Submission Review  
 **Owner:** Item Onboarding Analyst  
-**Last Updated:** January 2024  
+**Last Updated:** May 2026 
 
 ---
 
