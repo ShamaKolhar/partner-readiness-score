@@ -106,7 +106,4 @@ When a seller is asked to revise:
 4. Re-score the resubmission using the same framework
 5. If the resubmission still scores below 60, escalate immediately
 
----
-
-*This SOP is a living document and should be updated whenever scoring thresholds, SLA timelines, or submission requirements change.*
 
